@@ -1,0 +1,143 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('fondo2.jpg');
+}
+
+
+.form-register {
+	width: 400px;
+	background: #24303c;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.form-register1 {
+	width: 600px;
+	background: #24303c;
+	padding: 50px;
+	margin: auto; margin-top : 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+	margin-top: 100px;
+}
+
+.form-register1 table {
+	border-collapse: separate;
+	border-spacing: 15px;
+	border: 1px solid ;
+	border-color: 7px 13px 37px #000;
+	border-radius: 6px;
+}
+
+
+.form-register1 li {
+	padding: 5px;
+}
+
+.form-register h1 {
+	font-size: 25px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.form-register1 h2 {
+	font-size: 35px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.form-register1 h3 {
+	font-size: 20px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+.form-register1 h4 {
+	font-size: 25px;
+	margin-bottom: 5px;
+	text-align: left;
+	color: #33FFBB;
+}
+
+.controls {
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #1f53c5;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: white;
+}
+
+.controls1 {
+	width: 50%;
+	border-radius: 4px;
+	border: 1px solid #1f53c5;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: #444745;
+}
+
+.controls2 {
+	width: 50%;
+	border-radius: 4px;
+	border: 1px solid #1f53c5;
+	font-family: 'calibri';
+	font-size: 18px;
+	color: #444745;
+}
+
+.form-register1 p {
+	height: 30px;
+	text-align: center;
+	font-size: 25px;
+	line-height: 30px;
+}
+
+.form-register1 a {
+	color: #33B8FF;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.form-register1 a:hover {
+	color: red;
+	text-decoration: underline;
+	font-size: 15px;
+}
+
+.form-register .botons {
+	width: 100%;
+	background: #1f53c5;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+	border-radius: 4px;
+}
+
+.form-register1 .botons1 {
+	width: 15%;
+	background: #1f53c5;
+	border: none;
+	padding: 5x;
+	color: white;
+	font-size: 18px;
+	border-radius: 4px;
+	background: #1f53c5;
+}
