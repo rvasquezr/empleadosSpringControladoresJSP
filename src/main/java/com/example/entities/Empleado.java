@@ -48,6 +48,6 @@ public class Empleado {
 		this.cargo = cargo;
 	}
 	
-	
+	//modificación para visualizar en GIT
 
 }
